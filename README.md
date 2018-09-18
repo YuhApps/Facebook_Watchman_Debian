@@ -1,0 +1,1 @@
+Facebook Watchman (https://github.com/facebook/watchman) installation file for Debian-based distributions like Debian, Ubuntu, and Linux Mint. RPM-based distros are not supported. Please install Watchman from source instead.
